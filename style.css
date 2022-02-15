@@ -1,0 +1,16 @@
+table {
+    width: 200px;
+    background-color:  azure;
+    margin:  auto;
+    text-align: center;
+}
+
+table tr{
+    background-color: blanchedalmond;
+}
+
+table tr th{
+    color: blue;
+}
+
+.table2 { text-align: center; }
